@@ -1,1 +1,2 @@
-# golang_practice
+# golang practice
+# syntax writing practice
